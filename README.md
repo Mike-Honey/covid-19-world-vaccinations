@@ -1,5 +1,5 @@
 # covid-19-world-vaccinations
-DataViz of Australian Vaccinations for COVID-19
+Interactive infographic of Global COVID-19 Vaccinations
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
