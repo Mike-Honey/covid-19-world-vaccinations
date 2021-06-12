@@ -14,7 +14,7 @@ Interactive infographic of Global COVID-19 Vaccinations
 
 Infographic on COVID-19 Vaccinations, using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
 
-Following the visualisation design of [Marta Fioni](https://twitter.com/martafioni), as featured on the [UK government "equivalent" dashboard](https://coronavirus.data.gov.uk/).
+Following the visualisation design of [Marta Fioni](https://twitter.com/martafioni), as featured on the [UK government equivalent dashboard](https://coronavirus.data.gov.uk/).
 
 **Summary**
 
