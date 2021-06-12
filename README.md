@@ -12,7 +12,7 @@ DataViz of Australian Vaccinations for COVID-19
 
 **Reference:**
 
-Data on Vaccinations from [Our World In Data](https://ourworldindata.org/), for every country/location. The data can also be aggregated
+Infographic on COVID-19 Vaccinations, using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
 
 Following the visualisation design of [Marta Fioni](https://twitter.com/martafioni), as featured on the [UK government "equivalent" dashboard](https://coronavirus.data.gov.uk/).
 
