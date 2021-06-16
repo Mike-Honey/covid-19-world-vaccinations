@@ -30,5 +30,9 @@ The data is presented in an interactive data visualisation tool: [Power BI](http
 
 The dataviz is refreshed automatically, roughly every 6 hours. 
 
+I have similar projects running for other countries:
+ - [World](https://github.com/Mike-Honey/covid-19-world-vaccinations#readme) (select country, countries, continents or global summary)
+ - [New Zealand](https://github.com/Mike-Honey/covid-19-nz-vaccinations#readme) (select country, or Area/DHB)
+
 
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
