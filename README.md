@@ -11,7 +11,7 @@ Interactive infographic of Global COVID-19 Vaccinations
 
 [Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-Global.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-explore.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
 
 
 **Reference:**
