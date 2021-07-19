@@ -56,5 +56,7 @@ I have similar projects running for other specific countries, in more detail:
  - [Australia](https://github.com/Mike-Honey/covid-19-au-vaccinations#readme) (select country, state or territory)
  - [New Zealand](https://github.com/Mike-Honey/covid-19-nz-vaccinations#readme) (select country, or Area/DHB)
 
+Vaccination dataset citation:
+Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8
 
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
