@@ -1,6 +1,8 @@
 # covid-19-world-vaccinations
 Interactive infographic of Global COVID-19 Vaccinations
 
+# Infographic
+
 [Link to interactive infographic](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-Global.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
@@ -8,6 +10,15 @@ Interactive infographic of Global COVID-19 Vaccinations
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-South%20America.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-Australia.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+
+# Impact of Vaccinations
+
+[Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondf9745082dd660d03688)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-Impact%20Global.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondf9745082dd660d03688)
+
+# Explore Data
 
 [Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
 
@@ -18,7 +29,10 @@ Interactive infographic of Global COVID-19 Vaccinations
 
 Infographic on COVID-19 Vaccinations, using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
 
-Following the visualisation design of [Marta Fioni](https://twitter.com/martafioni), as featured on the [UK government equivalent dashboard](https://coronavirus.data.gov.uk/).
+For the Vaccination infographic, following the visualisation design of [Marta Fioni](https://twitter.com/jburnmurdoch), as featured on the [UK government equivalent dashboard](https://coronavirus.data.gov.uk/).
+
+For the Impact of Vaccination analysis, following the visualisation design of [John Burn-Murdoch](https://twitter.com/jburnmurdoch), as featured in the [Financial Times](https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24).
+
 
 **Summary**
 
@@ -30,7 +44,9 @@ I started with a more detailed project for Australia. But the reality is that ou
 
 The "waffle chart" visual chosen by Marta presents the vaccination data, standardised by the population of various Geographies.  Geographies of wildly differing populations (e.g. North America vs Australia) can be easily compared.
 
-An explorer page presents the same data for many countries at once for quick comparisons, featuring an interactive table.  Click the column headings to sort, use the slicer controls on the right to select.
+The Impact of Vaccination page contrasts two key statistics - Cases vs Deaths. Vaccinations reduce the number of cases somewhat, but should dramatically reduce the number of deaths that follow.
+
+An explorer page presents the Vaccination data for many countries at once for quick comparisons, featuring an interactive table.  Click the column headings to sort, use the slicer controls on the right to select.
 
 The data is presented in an interactive data visualisation tool: [Power BI](https://powerbi.microsoft.com). This allows interactive filtering of the data (e.g. by Geography or Date), and includes supporting charts and data tables on the 2nd page.  
 
