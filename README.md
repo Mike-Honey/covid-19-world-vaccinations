@@ -13,6 +13,7 @@ Interactive infographic of Global COVID-19 Vaccinations
 
 
 # Impact of Vaccinations
+Choose any Country, Continent or Global, choose your date range.
 
 [Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondf9745082dd660d03688)
 
