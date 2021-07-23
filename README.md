@@ -36,6 +36,8 @@ For the Vaccination infographic, following the visualisation design of [Marta Fi
 
 For the Impact of Vaccination analysis, following the visualisation design of [John Burn-Murdoch](https://twitter.com/jburnmurdoch), as featured in the [Financial Times](https://www.ft.com/content/fa4f248a-a476-491d-a5ce-f128360e9f24).
 
+Categorisation of Countries into Income Groups is drawn from their latest classifaction present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). Version 31 May 2021.
+
 
 **Summary**
 
