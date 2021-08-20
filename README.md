@@ -1,5 +1,5 @@
 # covid-19-world-vaccinations
-Interactive infographic of Global COVID-19 Vaccinations
+Interactive infographic of Global COVID-19 Vaccinations, updated daily.
 
 # Infographic
 Choose any Country, Continent or Global, choose any date.
