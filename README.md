@@ -14,7 +14,14 @@ Choose any Country, Continent or Global, choose any date.
 
 
 # Impact of Vaccinations
-Choose any Country, Continent or Global, choose your date range.
+Choose any Country, Continent or Global, by Income Group. Also choose your date range.
+
+[Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondf9745082dd660d03688)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-Impact%20Global.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondf9745082dd660d03688)
+
+# Impact of Vaccinations
+Choose any Country, Continent or Global, by Income Group. Also choose your date range.
 
 [Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondf9745082dd660d03688)
 
@@ -50,6 +57,8 @@ I started with a more detailed project for Australia. But the reality is that ou
 The "waffle chart" visual chosen by Marta presents the vaccination data, standardised by the population of various Geographies.  Geographies of wildly differing populations (e.g. North America vs Australia) can be easily compared.
 
 The Impact of Vaccination page contrasts two key statistics - Cases vs Deaths. Vaccinations reduce the number of cases somewhat, but should dramatically reduce the number of deaths that follow.
+
+The Deaths vs Vaccinations page compares countries by deaths (per 2 million population, to help compare countries of different sizes) against their latest % fully vaccinated. You can filter the Countries by Income Group, Continent, Countries and population ranges to come up with any combination of countries desired. You can also adjust the date range.
 
 An explorer page presents the Vaccination data for many countries at once for quick comparisons, featuring an interactive table.  Click the column headings to sort, use the slicer controls on the right to select.
 
