@@ -42,7 +42,7 @@ View all Countries, Choose any Country, Continent or Global, sort by any column.
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-explore.png)](https://app.powerbi.com/view?r=eyJrIjoiYjg2YWVhMzQtNzM1NC00OTRiLWI1OWMtNmMzYzViMTFjN2ZjIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
 
 
-**Reference:**
+# Reference
 
 Infographic on COVID-19 Vaccinations, using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
 
@@ -55,7 +55,7 @@ For Deaths vs Vaccinations scatter chart, inspired by a graphic in the NY Times 
 Categorisation of Countries into Income Groups is drawn from their latest classifaction present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). Version 31 May 2021.
 
 
-**Summary**
+# Summary
 
 This project seeks to boil down the many figures on vaccinations into an easily digested infographic. I've been looking for inspiration on this for quite a while - the key questions in my mind are:
 - How many people are protected?
