@@ -67,6 +67,8 @@ The "waffle chart" visual chosen by Marta presents the vaccination data, standar
 
 The Impact of Vaccination page contrasts two key statistics - Cases vs Deaths. Vaccinations reduce the number of cases somewhat, but should dramatically reduce the number of deaths that follow.
 
+The [Stringency Index](https://ourworldindata.org/metrics-explained-covid19-stringency-index) curated by ourworldindata.org is presented as a quick summary of trends in restrictions and public health.
+
 The Deaths vs Vaccinations page compares countries by deaths (per 2 million population, to help compare countries of different sizes) against their latest % fully vaccinated. You can filter the Countries by Income Group, Continent, Countries and population ranges to come up with any combination of countries desired. You can also adjust the date range.
 
 An explorer page presents the Vaccination data for many countries at once for quick comparisons, featuring an interactive table.  Click the column headings to sort, use the slicer controls on the right to select.
