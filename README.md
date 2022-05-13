@@ -61,7 +61,7 @@ For Deaths vs Vaccinations scatter chart, inspired by a graphic in the NY Times 
 
 Categorisation of Countries into Income Groups is drawn from their latest classifaction present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). Version 31 May 2021.
 
-Data on Hepatitis cases of unknown cause is currently scraped manually from [the latest ECDC news page on that topic](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-hepatitis-unknown-aetiology-children).
+Data on Hepatitis cases of unknown cause is currently scraped manually from [the latest ECDC news page on that topic](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-hepatitis-unknown-aetiology-children). The collected data is stored in [this Excel table](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/hepatitis-unknown.xlsx).
 
 # Summary
 
