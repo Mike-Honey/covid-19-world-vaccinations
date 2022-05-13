@@ -42,7 +42,7 @@ View all Countries, Choose any Country, Continent or Global, sort by any column.
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-explore.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
 
 # Hepatitis - unknown cause analysis
-View all Countries, Choose any Country, Continent or Global, OCED, EU. 
+View all Countries, Choose any date range, Country, Continent or Global, OCED, EU. 
 
 [Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection82f42da000da87165c85)
 
