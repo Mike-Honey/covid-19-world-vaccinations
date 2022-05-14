@@ -1,6 +1,13 @@
 # covid-19-world-vaccinations
 Interactive infographic of Global COVID-19 Vaccinations, updated daily.
 
+# Hepatitis - unknown origin analysis
+View all Countries, Choose any date range, Country, Continent or Global, OCED, EU. 
+
+[Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection82f42da000da87165c85)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-hep.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection82f42da000da87165c85)
+
 # Infographic
 Choose any Country, Continent or Global, choose any date.
 
@@ -41,17 +48,12 @@ View all Countries, Choose any Country, Continent or Global, sort by any column.
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-explore.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection858f47ca5126865dfc57)
 
-# Hepatitis - unknown cause analysis
-View all Countries, Choose any date range, Country, Continent or Global, OCED, EU. 
-
-[Link to interactive explorer DataViz](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection82f42da000da87165c85)
-
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-hep.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection82f42da000da87165c85)
-
 
 # Reference
 
-Infographic on COVID-19 Vaccinations, using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
+Data on Hepatitis cases of unknown cause is currently scraped manually from [the latest ECDC news page on that topic](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-hepatitis-unknown-aetiology-children). The collected data is stored in [this Excel table](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/hepatitis-unknown.xlsx).
+
+Statistics on COVID-19 cases, Vaccinations etc using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
 
 For the Vaccination infographic, following the visualisation design of [Marta Fioni](https://twitter.com/jburnmurdoch), as featured on the [UK government equivalent dashboard](https://coronavirus.data.gov.uk/).
 
@@ -60,8 +62,6 @@ For the Impact of Vaccination analysis, following the visualisation design of [J
 For Deaths vs Vaccinations scatter chart, inspired by a graphic in the NY Times article: [U.S. Coronavirus Death Toll Surpasses 700,000 Despite Wide Availability of Vaccines](https://www.nytimes.com/2021/10/01/us/us-covid-deaths-700k.html).
 
 Categorisation of Countries into Income Groups is drawn from their latest classifaction present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). Version 31 May 2021.
-
-Data on Hepatitis cases of unknown cause is currently scraped manually from [the latest ECDC news page on that topic](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-hepatitis-unknown-aetiology-children). The collected data is stored in [this Excel table](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/hepatitis-unknown.xlsx).
 
 # Summary
 
