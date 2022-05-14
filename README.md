@@ -1,5 +1,5 @@
 # covid-19-world-vaccinations
-Interactive infographic of Global COVID-19 Vaccinations, updated daily.
+Interactive infographic of Global COVID-19 statistics, updated daily.
 
 # Hepatitis - unknown origin analysis
 View all Countries, Choose any date range, Country, Continent or Global, OCED, EU. 
