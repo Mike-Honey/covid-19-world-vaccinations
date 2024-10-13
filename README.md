@@ -69,8 +69,6 @@ The Death Toll chart was inspired by a NY Times visualisation, showing each deat
 
 This project seeks to boil down the many figures on covid, vaccinations etc into easily digested infographics. 
 
-On Hepatitis of unknown origin (NOVHEP), I was inspired by the visualisation produced by [Hiroshi Nishiura](https://twitter.com/nishiurah) which compared countries reporting NOVHEP with others in the OECD, against their Omicron case counts. [Here's his twitter thread explaining the method](https://twitter.com/nishiurah/status/1524905690438897665?s=20&t=unmXzT7iun3f2IDK8m2shw). My version includes all companies and all COVID case stats, so the user can choose their own perspective, e.g. vs Delta, other countries/continents etc etc.
-
 On Vaccinations, the key questions in my mind are:
 - How many people are protected?
 - How many to go?
