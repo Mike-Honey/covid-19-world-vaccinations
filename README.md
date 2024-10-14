@@ -83,7 +83,11 @@ The [Stringency Index](https://ourworldindata.org/metrics-explained-covid19-stri
 
 The Deaths vs Vaccinations page compares countries by deaths (per 2 million population, to help compare countries of different sizes) against their latest % fully vaccinated. You can filter the Countries by Income Group, Continent, Countries and population ranges to come up with any combination of countries desired. You can also adjust the date range.
 
-For the Excess Death Toll, I started from the HMD dataset of weekly deaths by Country. I only use the Total Deaths figure. I derive the average of those results for 2015-2019, and then subtract it from the data for 2020 onwards, matched by week to derive "Excess Deaths". Negative results are dropped. This is a somewhat simplistic method, not trying to take into account long-term trends in mortality or population, and not trying to analyse cause of death. From my understanding, these were previously combining to drive mortality downwards, so these results are probably an undercount.
+For the Excess Death Toll, I started from the HMD dataset of weekly deaths by Country. I only use the Total Deaths figure. I derive a weekly average for 2015-2019 and adjust the counts from 2020 onwards by the annual growth (or decline) in mortality reported for 2015-2019. The result is considered "Expected Deaths". 
+
+I then subtract "Expected Deaths" from the Total Deaths, for 2020 onwards, to get "Excess Deaths". Negative results are not shown in the dot plot. 
+
+This is a somewhat simplistic method, not trying to take into account long-term drivers of mortality or population, and not trying to analyse cause of death. The results are very similar to the analysis of ["Excess mortality using raw death counts" presented by OWID](https://ourworldindata.org/excess-mortality-covid#excess-mortality-using-raw-death-counts).
 
 An explorer page presents the Vaccination data for many countries at once for quick comparisons, featuring an interactive table.  Click the column headings to sort, use the slicer controls on the right to select.
 
