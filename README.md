@@ -50,6 +50,8 @@ View all Countries, Choose any Country, Continent or Global, sort by any column.
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-death-toll.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=b4d4d7479bc0de40b510)
 
+The Excess Death Toll charts are also available as vertical scrolling pages, which gives a more detailed perspective. A page has been created for these countries:
+- [New Zealand](https://mike-honey.github.io/nz-excess-death-toll.html)
 
 # Reference
 
@@ -64,9 +66,6 @@ For Deaths vs Vaccinations scatter chart, inspired by a graphic in the NY Times 
 Categorisation of Countries into Income Groups is drawn from their latest classifaction present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). Version 31 May 2021.
 
 The Excess Death Toll chart was inspired by a NY Times visualisation, showing each death as a small black point. The data source is the [Short-Term Mortality Fluctuations dataset from the Human Mortality Database](https://www.mortality.org/Data/STMF). To provide contrast to the Date axis, a random spread is introduced on the other axis.
-
-The Excess Death Toll charts are also available as vertical scrolling pages, which gives a more detailed perspective. A page has been created for these countries:
-- [New Zealand](https://mike-honey.github.io/nz-excess-death-toll.html)
 
 
 # Summary
