@@ -93,7 +93,7 @@ The [Stringency Index](https://ourworldindata.org/metrics-explained-covid19-stri
 
 The Deaths vs Vaccinations page compares countries by deaths (per 2 million population, to help compare countries of different sizes) against their latest % fully vaccinated. You can filter the Countries by Income Group, Continent, Countries and population ranges to come up with any combination of countries desired. You can also adjust the date range.
 
-For the Excess Deaths (Toll and Context pages), I started from the HMD dataset of weekly deaths by Country. I derive a weekly average for of deaths within each age group for 2015-2019 and adjust the counts from 2020 onwards by the annual growth (or decline) in mortality reported for 2015-2019. The result is considered "Expected Deaths". 
+For the Excess Deaths (Toll and Context pages), I started from the HMD dataset of weekly deaths by Country. I derive the weekly growth for 2015-2019 and project the counts for 2020 onwards using the growth (or decline). This is standardised by the Age Groups available in the HMD data, to reflect the demographic mix more accurately. The result is considered "Expected Deaths". 
 
 I then subtract "Expected Deaths" from the Total Deaths, for 2020 onwards, to get "Excess Deaths". Negative results are not shown in the dot plot. 
 
