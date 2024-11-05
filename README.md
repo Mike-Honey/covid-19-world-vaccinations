@@ -114,6 +114,14 @@ Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 
 
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
 
+## Videos
+
+Videos produced using this project can be freely downloaded and resused, according to the [MIT license for this project](https://github.com/Mike-Honey/covid-19-world-vaccinations#MIT-1-ov-file).
+
+### Excess Death Toll Videos
+
+- [Australia](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/ET6l1Ix2ZBZIrDs2HQtcBsMB4zIuXf_uGuf27xjlzLolrw?e=VUov1C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## 🤝 Support
 
 Contributions, issues, feature requests and sponsorship are all welcome!
