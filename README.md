@@ -50,8 +50,23 @@ View all Countries, Choose any Country, Continent or Global, sort by any column.
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-death-toll.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=b4d4d7479bc0de40b510)
 
+### Excess Death Toll Pages
+
 The Excess Death Toll charts are also available as vertical scrolling pages, which gives a more detailed perspective. A page has been created for these countries:
-- [New Zealand](https://mike-honey.github.io/nz-excess-death-toll.html)
+- [Australia](https://mike-honey.github.io/AUS-excess-death-toll.html)
+- [Canada](https://mike-honey.github.io/CAN-excess-death-toll.html)
+- [New Zealand](https://mike-honey.github.io/NZL-excess-death-toll.html)
+- [United Kingdom](https://mike-honey.github.io/GBR-excess-death-toll.html)
+
+### Excess Death Toll Videos
+
+- [Australia](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/ET6l1Ix2ZBZIrDs2HQtcBsMB4zIuXf_uGuf27xjlzLolrw?e=VUov1C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Canada](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/ERfHsZpT6iVLkczlG20v8qoBVhgmpUJ_wbqcA8EkOp4NYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=H7gGDr)
+- [Spain](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/EQadOU7vqUxKuWqPTFvvVskBPNkeykG6594vZU8kdq8V-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EzfuHn)
+- [Spain (square)](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/EVnTZyE1Wq5GhVsyJ-l-508BS1A53ULRD7cIXjIuWmIcVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=w8sXmt)
+- [UK](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/EX2ObBnIKidBlUahk_C5UygBjtNHMdMG0hkmEbl5mz2WNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JNySG4)
+- [UK (square)](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/EcDN0HVStipPhYhHf387fowBeYVM4isnq733WDjYn4m47Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iVekTK)
+
 
 # Excess Deaths Context page
 
@@ -117,10 +132,6 @@ THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
 ## Videos
 
 Videos produced using this project can be freely downloaded and resused, according to the [MIT license for this project](https://github.com/Mike-Honey/covid-19-world-vaccinations#MIT-1-ov-file).
-
-### Excess Death Toll Videos
-
-- [Australia](https://mangasolutions-my.sharepoint.com/:v:/p/mike_honey/ET6l1Ix2ZBZIrDs2HQtcBsMB4zIuXf_uGuf27xjlzLolrw?e=VUov1C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## 🤝 Support
 
