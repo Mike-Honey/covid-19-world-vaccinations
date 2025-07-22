@@ -77,7 +77,10 @@ The Excess Death Toll charts are also available as vertical scrolling pages, whi
 
 # Reference
 
-Statistics on COVID-19 cases, Vaccinations etc using data from [Our World In Data](https://ourworldindata.org/), for every country/location. 
+Statistics on COVID-19 cases, Vaccinations etc using data from [Our World In Data](https://ourworldindata.org/) and [WHO](https://data.who.int/dashboards/covid19/data) for every country/location. 
+
+For specific countries which have stopped reporting via those methods, I gather available data by scraping reports etc and integrating them into the OWID data structure within my model. The details of the methods and data gathered can be reviewed in the sub-folders of this project.
+- SGP Singapore: A python notebook scrapes key statistics from the [Weekly Infectious Diseases Bulletin](2025 https://www.cda.gov.sg/resources/weekly-infectious-diseases-bulletin-2025) reports
 
 For the Vaccination infographic, following the visualisation design of [Marta Fioni](https://twitter.com/jburnmurdoch), as featured on the [UK government equivalent dashboard](https://coronavirus.data.gov.uk/).
 
