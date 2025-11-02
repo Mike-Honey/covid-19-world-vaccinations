@@ -136,6 +136,9 @@ THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
 
 Videos produced using this project can be freely downloaded and resused, according to the [MIT license for this project](https://github.com/Mike-Honey/covid-19-world-vaccinations#MIT-1-ov-file).
 
+[![Developed by a Human, not by AI. Click for more info](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/Developed-By-a-Human-Not-By-AI-Badge-white@2x.png)](https://notbyai.fyi)
+
+
 ## 🤝 Support
 
 Contributions, issues, feature requests and sponsorship are all welcome!
