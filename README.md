@@ -75,6 +75,13 @@ The Excess Death Toll charts are also available as vertical scrolling pages, whi
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-excess-deaths-context.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=19ae9c51037336620490)
 
 
+# Excess Deaths Comparison page
+
+[Link to interactive dataviz](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=047e3a18e5700c501330)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-world-vaccinations/raw/main/covid-19-world-vaccinations-excess-deaths-comparison.png)](https://app.powerbi.com/view?r=eyJrIjoiMjdiMTUyMWEtZDg3Yy00NDYzLWJkOTQtYmE5N2JlOGRkYzYwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=047e3a18e5700c501330)
+
+
 # Reference
 
 Statistics on COVID-19 cases, Vaccinations etc using data from [Our World In Data](https://ourworldindata.org/) and [WHO](https://data.who.int/dashboards/covid19/data) for every country/location. 
@@ -111,12 +118,6 @@ The [Stringency Index](https://ourworldindata.org/metrics-explained-covid19-stri
 
 The Deaths vs Vaccinations page compares countries by deaths (per 2 million population, to help compare countries of different sizes) against their latest % fully vaccinated. You can filter the Countries by Income Group, Continent, Countries and population ranges to come up with any combination of countries desired. You can also adjust the date range.
 
-For the Excess Deaths (Toll and Context pages), I started from the [HMD dataset of weekly deaths by Country](https://www.mortality.org/Data/STMF). I derive the weekly growth for 2015-2019 and project the counts for 2020 onwards using the growth (or decline). This is standardised by the Age Groups available in the HMD data, to reflect the demographic mix more accurately. The result is considered "Expected Deaths". 
-
-I then subtract "Expected Deaths" from the Total Deaths, for 2020 onwards, to get "Excess Deaths". Negative results are not shown in the dot plot. 
-
-The results are very similar to the analysis of ["Excess mortality" presented by OWID](https://ourworldindata.org/excess-mortality-covid).  But having effectively reconstituted the data from the detailed level, alternative visualisations become possible.
-
 An explorer page presents the Vaccination data for many countries at once for quick comparisons, featuring an interactive table.  Click the column headings to sort, use the slicer controls on the right to select.
 
 The data is presented in an interactive data visualisation tool: [Power BI](https://powerbi.microsoft.com). This allows interactive filtering of the data (e.g. by Geography or Date), and includes supporting charts and data tables on the 2nd page.  
@@ -129,6 +130,19 @@ I have similar projects running for other specific countries, in more detail:
 
 Vaccination dataset citation:
 Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8
+
+## Excess Deaths Analysis
+
+For the Excess Deaths analysis (Toll, Context and Comparison pages), I started from the [HMD dataset of weekly deaths by Country](https://www.mortality.org/Data/STMF). I smooth the deaths series with a rolling 4-week average, to smooth out periods (eg end of year) when there can be delayed reporting of deaths. I derive the weekly growth rate for 2015-2019 using a linear regression and project the counts for 2020 onwards using the growth (or decline). This is standardised by the Age Groups available in the HMD data, to reflect the demographic mix more accurately. The result is considered "Expected Deaths". 
+
+I then subtract "Expected Deaths" from the Total Deaths, for 2020 onwards, to get "Excess Deaths". Negative results are not shown in the dot plot. 
+
+I derive some standardised metrics that help compare periods over time, and compare countries to each other:
+ - Excess Death % Annualised - the rolling 1-year average of weekly Excess Deaths, expressed as a percentage of Expected Deaths. As SARS-CoV-2 has broken the seasonal pattern of deaths, a rolling annual figure gives a better guide than the traditional yearly summaries.
+ - Excess Death Cumulative per 1M population - this is shown on the Excess Deaths Comparison page, to give a long-term comparison of countries
+
+The results are very similar to the analysis of ["Excess mortality" presented by OWID](https://ourworldindata.org/excess-mortality-covid).  But having effectively reconstituted the data from the detailed level, alternative visualisations become possible.
+
 
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
 
