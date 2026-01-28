@@ -143,8 +143,10 @@ I derive some standardised metrics that help compare periods over time, and comp
 
 The results are very similar to the analysis of ["Excess mortality" presented by OWID](https://ourworldindata.org/excess-mortality-covid).  But having effectively reconstituted the data from the detailed level, alternative visualisations become possible.
 
+HMD dataset citation:
+HMD. Human Mortality Database. Max Planck Institute for Demographic Research (Germany), University of California, Berkeley (USA), and French Institute for Demographic Studies (France). Available at www.mortality.org.
 
-THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
+
 
 ## Videos
 
@@ -158,3 +160,7 @@ Videos produced using this project can be freely downloaded and resused, accordi
 Contributions, issues, feature requests and sponsorship are all welcome!
 
 Give a ⭐️ if you like this project!
+
+
+THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
+
