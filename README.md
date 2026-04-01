@@ -95,7 +95,7 @@ For the Impact of Vaccination analysis, following the visualisation design of [J
 
 For Deaths vs Vaccinations scatter chart, inspired by a graphic in the NY Times article: [U.S. Coronavirus Death Toll Surpasses 700,000 Despite Wide Availability of Vaccines](https://www.nytimes.com/2021/10/01/us/us-covid-deaths-700k.html).
 
-Categorisation of Countries into Income Groups is drawn from their latest classifaction present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). Version 31 May 2021.
+Categorisation of Countries into Income Groups is drawn from their latest classification present in the [World Income Inequality Database (WIID)](https://www.wider.unu.edu/database/world-income-inequality-database-wiid) - UNU-WIDER, World Income Inequality Database (WIID). 29 April 2025. [https://doi.org/10.35188/UNU-WIDER/WIID-290425](https://doi.org/10.35188/UNU-WIDER/WIID-290425)
 
 The Excess Death Toll chart was inspired by a NY Times visualisation, showing each death as a small black point. The data source is the [Short-Term Mortality Fluctuations dataset from the Human Mortality Database](https://www.mortality.org/Data/STMF). To provide contrast to the Date axis, a random spread is introduced on the other axis.
 
